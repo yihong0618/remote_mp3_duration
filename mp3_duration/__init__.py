@@ -1,0 +1,1 @@
+from mp3_duration.mp3_duration import get_mp3_duration
