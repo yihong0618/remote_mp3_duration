@@ -10,14 +10,13 @@ this repo is from https://github.com/FactorialComplexity/mp3-duration-estimate, 
 
 ```
 pip install git+https://github.com/yihong0618/remote_mp3_duration.git
-
+or
+pip install remote_mp3_duration
 ```
 
 ```python
 from mp3_duration import get_mp3_duration
-
 print(get_mp3_duration("$mp3_url"))
-
 ```
 
 or cli
